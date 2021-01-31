@@ -1,1 +1,1 @@
-![flowchart](https://github.com/athillyerschool/leapyear/tree/main/img/Leap%Year%Program.png)
+![flowchart](https://github.com/athillyerschool/leapyear/blob/main/img/Leap%20Year%20Program.png)
